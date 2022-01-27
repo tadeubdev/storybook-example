@@ -1,0 +1,19 @@
+.btn {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.btn--small {
+  font-size: 12px;
+  padding: 8px 12px;
+}
+
+.btn--large {
+  font-size: 12px;
+  padding: 15px 30px;
+}
+
+.btn--primary {
+  background: #d65;
+  color: #fff;
+}
